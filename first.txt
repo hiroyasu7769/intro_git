@@ -4,3 +4,4 @@ Gitの練習をしてきます。
 ・git commit
 5/24 練習。
 ・git rm
+・git status
